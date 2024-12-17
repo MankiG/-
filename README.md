@@ -1,6 +1,7 @@
 # 大数据安全课程大作业项目-语音对抗攻击
 
 参考论文：[Defending Your Voice: Adversarial Attack on Voice Conversion](https://arxiv.org/abs/2005.08781)，
+
 使用对抗攻击来防止他人不当利用语音转换，当对输入语音加上对抗噪声时，语音转换会失败。
 
 ## 队伍
@@ -14,6 +15,7 @@
 ## 语音转换模型
 
 [AdaIN-VC](https://arxiv.org/abs/1904.05742) 模型
+
 [Chou'Model](https://arxiv.org/abs/1904.05742) 模型
 
 ## 攻击

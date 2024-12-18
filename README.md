@@ -10,6 +10,8 @@
 
 队员：郭琪、陈风赫、牙祖淦
 
+分工：[分工表](https://kdocs.cn/l/cblvAAGeFvl0)
+
 贡献：郭琪（61%）、陈风赫（25%）、牙祖淦（14%）
 
 ## 语音转换模型
@@ -20,7 +22,7 @@
 
 ## 文件夹/model缺失文件
 
-由于文件过大，[点击此处](https://drive.google.com/drive/folders/1vGU7DdfuebG1y8f4s4MOqEMunzsxxAHX) 获取文件model.ckpt
+由于文件过大，[点击此处](https://drive.google.com/drive/folders/1vGU7DdfuebG1y8f4s4MOqEMunzsxxAHX) 获取文件 `model.ckpt` 。
 
 ## 攻击
 

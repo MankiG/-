@@ -26,7 +26,7 @@
 
 ## 攻击
 
-你可以使用 `attack.py` 对 AdaIN-VC 执行对抗攻击。
+你可以使用 `attack.py` 对 两种语音转换模型 执行对抗攻击。
 
 ```bash
 python attack.py <model_dir> <vc_tgt> <adv_tgt> <output> [--vc_src source] [--eps epsilon] [--n_iters iterations] [--attack_type type]
